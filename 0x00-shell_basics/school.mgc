@@ -1,2 +1,2 @@
-0	string	SCHOOL
-!:mime  MIMETYPE
+0      string   SCHOOL
+>0x18  leshort  <0x40   MS-DOS executable
