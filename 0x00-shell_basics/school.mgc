@@ -1,2 +1,2 @@
 #!/bin/bash
-find SCHOOL -l
+ls [SCHOOL]*
