@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --sort=WORD -m
+ls -ma
