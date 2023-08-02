@@ -1,1 +1,1 @@
-Shell basics floder
+Devops folder
