@@ -1,2 +1,2 @@
-0      string   SCHOOL
->0x18  leshort  <0x40   MS-DOS executable
+0      string	SCHOOL	school	data
+!:mime text/school
