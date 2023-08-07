@@ -1,2 +1,2 @@
 #!/bin/bahs
-cat /etc/passwd /etc/hosts
+less /etc/passwd /etc/hosts
