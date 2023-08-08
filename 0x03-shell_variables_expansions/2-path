@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH="$PSTH/action"
+export PATH="$PSTH:/action"
