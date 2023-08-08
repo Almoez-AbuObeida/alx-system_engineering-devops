@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{{a..n},{p..z}} | xargs -n 1 | tr -d "oo"
+echo {a..z}{{a..n},{p..z}} | tr " " "\n" | grep -v "00"
